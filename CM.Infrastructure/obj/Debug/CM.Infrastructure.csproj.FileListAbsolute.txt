@@ -1,0 +1,12 @@
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\CM.Infrastructure.dll
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\CM.Infrastructure.pdb
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\MongoDB.Bson.dll
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\MongoDB.Driver.dll
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\MongoDB.Bson.xml
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\MongoDB.Driver.xml
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\obj\Debug\CM.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\obj\Debug\CM.Infrastructure.dll
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\CM.Infrastructure\obj\Debug\CM.Infrastructure.pdb

@@ -1,0 +1,2 @@
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\ConstructMaster\bin\Debug\ConstructMaster.exe.config
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\ConstructMaster\obj\Debug\ConstructMaster.csprojResolveAssemblyReference.cache

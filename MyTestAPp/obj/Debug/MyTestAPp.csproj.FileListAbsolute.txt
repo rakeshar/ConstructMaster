@@ -1,0 +1,15 @@
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\MyTestAPp\obj\Debug\MyTestAPp.csprojResolveAssemblyReference.cache
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MyTestAPp.exe.config
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MyTestAPp.exe
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MyTestAPp.pdb
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\CM.Infrastructure.dll
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\CM.Infrastructure.pdb
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\MyTestAPp\obj\Debug\MyTestAPp.exe
+c:\users\rakeshar\documents\visual studio 2015\Projects\ConstructMaster\MyTestAPp\obj\Debug\MyTestAPp.pdb
+C:\Users\rakeshar\Documents\Visual Studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MongoDB.Bson.dll
+C:\Users\rakeshar\Documents\Visual Studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\rakeshar\Documents\Visual Studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MongoDB.Driver.dll
+C:\Users\rakeshar\Documents\Visual Studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rakeshar\Documents\Visual Studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MongoDB.Bson.xml
+C:\Users\rakeshar\Documents\Visual Studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MongoDB.Driver.xml
+C:\Users\rakeshar\Documents\Visual Studio 2015\Projects\ConstructMaster\MyTestAPp\bin\Debug\MongoDB.Driver.Core.xml
